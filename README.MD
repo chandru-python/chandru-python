@@ -69,20 +69,6 @@
 | **Backend & Deployment** | FastAPI, Flask, REST APIs, Docker, AWS (EC2, S3, Lambda) |
 | **MLOps & Data Science** | MLflow, Experiment Tracking, Model Versioning, CI/CD, EDA, Feature Engineering, Advanced Preprocessing |
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandru-python&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Chandru's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru-python&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru-python&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
 
 ## 🔥 Recent Activity (updated live)
 
