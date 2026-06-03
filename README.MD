@@ -38,7 +38,7 @@
 
 ### 💻 Languages & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,sqlite,fastapi,flask,linux" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,fastapi,flask" />
 </p>
 
 ### 🤖 AI, ML & Infrastructure
