@@ -45,7 +45,7 @@
 ### 🤖 AI, ML & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws,git,github,vscode," />
 </p>
 
 <p align="left">
