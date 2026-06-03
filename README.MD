@@ -43,7 +43,7 @@
 
 ### 🤖 AI, ML & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,git,github,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,XGBoost,MLflow,LangChain,Llama,RAG,Prompt Engineering,OpenCV,YOLO,FAISS,git,github,docker,aws,vscode," />
 </p>
 
 ### 🧠 Core Domains (with proven project experience)
