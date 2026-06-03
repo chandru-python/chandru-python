@@ -42,8 +42,23 @@
 </p>
 
 ### 🤖 AI, ML & Infrastructure
+### 🤖 AI, ML & Infrastructure
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,XGBoost,MLflow,LangChain,Llama,RAG,Prompt Engineering,OpenCV,YOLO,FAISS,git,github,docker,aws,vscode," />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws,git,github,vscode,linux" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llama%203-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" />
 </p>
 
 ### 🧠 Core Domains (with proven project experience)
