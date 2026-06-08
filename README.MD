@@ -14,43 +14,39 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-🔹 **AI/ML Engineer** with 2+ years of experience designing, optimizing, and deploying **scalable, low-latency ML systems** in production.
+Passionate **Machine Learning & AI Engineer** dedicated to bridging the gap between cutting-edge AI research and scalable, low-latency software. I focus on transforming theoretical algorithms into production-ready intelligence systems.
 
-🔹 **Specialized in:**  
-`Generative AI` • `RAG (Retrieval-Augmented Generation)` • `LLMs` • `LangChain` • `Vector Databases (FAISS)` • `Computer Vision (YOLOv8, OpenCV)`
+### 🛠️ Build. 🚀 Scale. 🤖 Automate.
+- **Clean AI Architectures:** Designing modular RAG frameworks and structured agent workflows.
+- **Production-Ready & MLOps Dev:** Obsessed with tracking, containerization, and robust API endpoints.
+- **Real-Time Computer Vision:** Optimizing model pipelines for rapid edge and cloud inference.
 
-🔹 **Currently building:**  
-✅ Enterprise-grade AI document assistants  
-✅ Secure RAG pipelines with source attribution  
-✅ Real-time inference APIs (<200ms latency)  
-✅ Agentic AI workflows & AutoML platforms
+---
 
-🔹 **Deployment & MLOps:**  
-`FastAPI` • `Docker` • `AWS` • `MLflow` • `CI/CD` • `Model Versioning`
+## ⚡ Quick Snapshot
 
-🔹 **Goal:** Bridge the gap between cutting-edge AI research and **reliable, production-ready software** that solves real business problems.
+- **🔭 Current Project:** Deployed an Enterprise AI Knowledge Assistant using multi-source RAG architectures.
+- **⚡ Performance:** Minimizing API response times (<200ms latency) using vectorized lookups with FAISS & ChromaDB.
+- **🌱 Learning:** Mastering Distributed Model Training architectures and Advanced Agentic Orchestration patterns.
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-### 💻 Languages & Backend
+### ⚙️ Backend, Core & Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,fastapi,flask" />
 </p>
 
-### 🤖 AI, ML & Infrastructure
-
+### 🧠 AI/ML & Python Ecosystem
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Llama%203-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge" />
@@ -60,33 +56,41 @@
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" />
 </p>
 
-### 🧠 Core Domains (with proven project experience)
+### ☁️ DevOps, Infrastructure & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+</p>
 
-| Area | Technologies & Techniques |
-| :--- | :--- |
-| **Generative AI & NLP** | LLMs (OpenAI, Llama), Transformers, RAG, LangChain, Prompt Engineering, FAISS, ChromaDB |
-| **Computer Vision** | YOLOv8 (Object Detection, Tracking), Image Segmentation, Face Recognition, OpenCV |
-| **Backend & Deployment** | FastAPI, Flask, REST APIs, Docker, AWS (EC2, S3, Lambda) |
-| **MLOps & Data Science** | MLflow, Experiment Tracking, Model Versioning, CI/CD, EDA, Feature Engineering, Advanced Preprocessing |
+---
 
+## 🎯 Current Focus Areas
+
+| Focus Area | Core Responsibilities & Stack | Engineering Goal |
+| :--- | :--- | :--- |
+| **🧠 Generative AI / RAG** | LLMs (Llama 3, OpenAI), LangChain, Vector Search (FAISS, ChromaDB), Source Attribution | High-fidelity context injection with verified accuracy |
+| **👁️ Computer Vision** | YOLOv8 (Object Tracking & Detection), Custom Face Recognition, OpenCV | Scalable real-time edge processing and surveillance logs |
+| **⚡ Inference Latency** | FastAPI, Concurrent Workers, Efficient Caching Pipelines | Sub-200ms roundtrip response thresholds |
+| **📊 MLOps Integration** | MLflow Experiment Tracking, Model Versioning, Dockerized Deployment | Zero-downtime integration & strict environment reproducibility |
+
+---
 
 ## 🔥 Recent Activity (updated live)
 
-<!-- RECENT_ACTIVITY:start -->
 - 🚀 Deployed a production RAG assistant with <200ms latency  
 - 🧠 Fine-tuned a YOLOv8 model for custom object detection  
 - 🐳 Containerized AutoML platform using Docker + FastAPI  
 - 📝 Published a blog on "Optimizing LLM Retrieval with FAISS" (coming soon)  
 - ⚙️ Integrated MLflow tracking for LLM evaluation pipelines
-<!-- RECENT_ACTIVITY:end -->
-
 > 💡 *You can automate this section using [actions](https://github.com/marketplace/actions/github-activity-readme) to pull your latest GitHub activity.*
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to **collaborations**, **AI/ML engineering roles**, and **research discussions**.
+I'm open to **collaborations**, **AI/ML engineering roles**, and **production infrastructure discussions**.
 
 📧 **Email:** [chandrum071202@gmail.com](mailto:chandrum071202@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/chandrum071202](https://linkedin.com/in/chandrum071202)  
